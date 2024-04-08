@@ -10,4 +10,5 @@ Test requirements:
 
 Run the tests:
 Navigate to the root project folder in your cmd or bash terminal.  Enter the following code
-`./gradlew test -Dandroid.version={your emulated device version} -Ddevice.name="{your emulated device name}"
+
+`./gradlew test -Dandroid.version={your emulated device version} -Ddevice.name="{your emulated device name}"`
